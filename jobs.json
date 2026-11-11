@@ -1,0 +1,612 @@
+[
+ {
+  "title": "Senior Digital Verification Engineer",
+  "company": "Samsung Research and Development Center Israel",
+  "location": "Samsung Israel R&D Center- SIRC",
+  "url": "https://www.comeet.com/jobs/samsung/D4.005/senior-digital-verification-engineer/E2.374",
+  "posted": "",
+  "first_seen": "2026-11-11T20:43:22+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: At least : 4 years of hands-on experience in VLSI verificati"
+ },
+ {
+  "title": "Field Testing Team Lead",
+  "company": "Regulus",
+  "location": "Haifa",
+  "url": "https://www.comeet.com/jobs/regulus/9A.00D/field-testing-team-lead/F2.472",
+  "posted": "",
+  "first_seen": "2026-11-11T20:43:19+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "System Integration Engineer",
+  "company": "Regulus",
+  "location": "Haifa",
+  "url": "https://www.comeet.com/jobs/regulus/9A.00D/system-integration-engineer/7E.36D",
+  "posted": "",
+  "first_seen": "2026-11-11T20:43:19+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "Mobile QA Engineer",
+  "company": "Paragon",
+  "location": "Israel",
+  "url": "https://www.comeet.com/jobs/paragon/76.006/mobile-qa-engineer/D5.C5C",
+  "posted": "",
+  "first_seen": "2026-11-11T20:43:10+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "System Integration Engineer- Contract",
+  "company": "MSD Animal Health Technology Labs",
+  "location": "Netanya",
+  "url": "https://www.comeet.com/jobs/msd-ah-technologylabs/A3.003/system-integration-engineer--contract/16.16A",
+  "posted": "",
+  "first_seen": "2026-11-11T20:43:03+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Junior Embedded Software & Integration Engineer",
+  "company": "Mentee Robotics",
+  "location": "Herzliya",
+  "url": "https://www.comeet.com/jobs/mentee_robotics/6A.002/junior-embedded-software--integration-engineer/1B.470",
+  "posted": "",
+  "first_seen": "2026-11-11T20:42:58+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "QA Team Lead – Cyber & AI",
+  "company": "Dream",
+  "location": "TLV - ISR",
+  "url": "https://www.comeet.com/jobs/dreamgroup/99.002/qa-team-lead--cyber--ai/04.470",
+  "posted": "",
+  "first_seen": "2026-11-11T20:42:24+00:00",
+  "verdict": "needs_look",
+  "reason": "senior / lead title: check the seniority by hand. manual QA; automation: advantage"
+ },
+ {
+  "title": "Test and Product Engineer",
+  "company": "Altair Semiconductor",
+  "location": "Israel",
+  "url": "https://www.comeet.com/jobs/altair_semiconductor/88.003/test-and-product-engineer/FA.D5A",
+  "posted": "",
+  "first_seen": "2026-11-11T20:42:09+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Senior QA Engineer – Outdoor Test Lead",
+  "company": "Parallel Wireless",
+  "location": "Kinneret, Israel",
+  "url": "https://jobs.lever.co/parallelwireless/e96702fd-98e7-49d5-aad5-aa22bdcf0499",
+  "posted": "",
+  "first_seen": "2026-11-11T20:41:47+00:00",
+  "verdict": "needs_look",
+  "reason": "senior / lead title: check the seniority by hand. manual QA; automation: advantage"
+ },
+ {
+  "title": "Senior AI-Driven Integration & Validation Engineer",
+  "company": "Parallel Wireless",
+  "location": "Kfar Saba, Israel",
+  "url": "https://jobs.lever.co/parallelwireless/932cf60a-7d23-4b27-a590-809f2d28b388",
+  "posted": "",
+  "first_seen": "2026-11-11T20:41:47+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Validation Engineer",
+  "company": "Parallel Wireless",
+  "location": "Kinneret, Israel",
+  "url": "https://jobs.lever.co/parallelwireless/5dc6fa5f-31f7-4366-8d47-01064c0e66ad",
+  "posted": "",
+  "first_seen": "2026-11-11T20:41:47+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "Junior System Integration Engineer",
+  "company": "Parallel Wireless",
+  "location": "Kfar Saba, Israel",
+  "url": "https://jobs.lever.co/parallelwireless/56786ab6-bdb3-41f2-b749-b77b7c834ef2",
+  "posted": "",
+  "first_seen": "2026-11-11T20:41:47+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "Senior Verification Engineer",
+  "company": "Wiliot",
+  "location": "Israel - Caesarea",
+  "url": "https://www.comeet.com/jobs/wiliot/F6.003/senior-verification-engineer/52.451",
+  "posted": "",
+  "first_seen": "2026-11-11T20:41:29+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "Logic Digital Verification Engineer",
+  "company": "Wiliot",
+  "location": "Israel - Caesarea",
+  "url": "https://www.comeet.com/jobs/wiliot/F6.003/logic-digital-verification-engineer/2A.F46",
+  "posted": "",
+  "first_seen": "2026-11-11T20:41:29+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "QA Performance / COST team",
+  "company": "Tufin",
+  "location": "Tel Aviv, Hybrid",
+  "url": "https://www.comeet.com/jobs/tufin/A1.00B/qa-performance--cost-team/A0.371",
+  "posted": "",
+  "first_seen": "2026-11-11T20:41:17+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "Mid-Level Integration Engineer",
+  "company": "Spinomenal",
+  "location": "Israel",
+  "url": "https://www.comeet.com/jobs/spinomenal/99.008/mid-level-integration-engineer/1F.071",
+  "posted": "",
+  "first_seen": "2026-11-11T20:41:05+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "QA/RA Engineer",
+  "company": "Rapid-Medical",
+  "location": "Kochav Building, Yokneam, Israel",
+  "url": "https://www.comeet.com/jobs/rapidmedical/5A.003/qara-engineer/22.C63",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:46+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Program Quality Engineer",
+  "company": "DRS RADA TECHNOLOGIES",
+  "location": "Netanya",
+  "url": "https://www.comeet.com/jobs/rada/73.009/program-quality-engineer/7A.467",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:44+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "QA Engineer",
+  "company": "DRS RADA TECHNOLOGIES",
+  "location": "Netanya",
+  "url": "https://www.comeet.com/jobs/rada/73.009/qa-engineer/6E.470",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:44+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: An advantage, not a requirement: Hands-on experience with te"
+ },
+ {
+  "title": "Quantum Control Systems Engineer (Application Validation Team)",
+  "company": "Quantum Machines",
+  "location": "Israel, Tel Aviv Office",
+  "url": "https://www.comeet.com/jobs/quantummachines/D6.000/quantum-control-systems-engineer-application-validation-team/FF.274-47.20D",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:41+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Validation Engineer- Quantum Control Systems",
+  "company": "Quantum Machines",
+  "location": "Israel, Tel Aviv Office",
+  "url": "https://www.comeet.com/jobs/quantummachines/D6.000/validation-engineer--quantum-control-systems/B0.372-47.20D",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:41+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "QA & Automation Team Lead",
+  "company": "Quantum Machines",
+  "location": "Israel, Tel Aviv Office",
+  "url": "https://www.comeet.com/jobs/quantummachines/D6.000/qa--automation-team-lead/82.D69",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:41+00:00",
+  "verdict": "needs_look",
+  "reason": "automation looks required but the quote could not be verified"
+ },
+ {
+  "title": "Verification Engineer",
+  "company": "Quantum Machines",
+  "location": "Israel, Tel Aviv Office",
+  "url": "https://www.comeet.com/jobs/quantummachines/D6.000/verification-engineer/42.364",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:41+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: Creating a: verification environment from scratch (drivers, "
+ },
+ {
+  "title": "Senior Verification Engineer",
+  "company": "Quantum Machines",
+  "location": "Israel, Tel Aviv Office",
+  "url": "https://www.comeet.com/jobs/quantummachines/D6.000/senior-verification-engineer/13.264",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:41+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: Experience with UVM, System Ver: Advantage"
+ },
+ {
+  "title": "Verification Engineer",
+  "company": "NextSilicon",
+  "location": "Israel",
+  "url": "https://www.comeet.com/jobs/nextsilicon/18.007/verification-engineer/A3.339",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:27+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: 6+ years of verification experience, including hands:ons exp"
+ },
+ {
+  "title": "Quality Assurance",
+  "company": "Netafim",
+  "location": "Yiftah, Israel",
+  "url": "https://www.comeet.com/jobs/netafim/B7.002/quality-assurance/B0.D6C",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:24+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Quality Control-Injection",
+  "company": "Netafim",
+  "location": "Magal, Israel",
+  "url": "https://www.comeet.com/jobs/netafim/B7.002/quality-control-injection/A8.E69",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:24+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Quality Engineer - Design Control",
+  "company": "Mego Afek",
+  "location": "Mego Afek AC Ltd.",
+  "url": "https://www.comeet.com/jobs/megoafek/7A.003/quality-engineer---design-control/55.D6C",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:19+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Test Development Engineer - Israel",
+  "company": "Island",
+  "location": "Tel Aviv",
+  "url": "https://www.comeet.com/jobs/island/09.00A/test-development-engineer---israel/AE.D38",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:04+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: Work closely with the R: engineering teams to ensure new fea"
+ },
+ {
+  "title": "Test Development Engineer - Network",
+  "company": "Island",
+  "location": "Tel Aviv",
+  "url": "https://www.comeet.com/jobs/island/09.00A/test-development-engineer---network/54.F67",
+  "posted": "",
+  "first_seen": "2026-11-11T20:40:04+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "Manual QA",
+  "company": "Integrity Labs",
+  "location": "Tel Aviv",
+  "url": "https://www.comeet.com/jobs/integritylabs/43.009/manual-qa/E9.B62",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:59+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "QA",
+  "company": "inManage",
+  "location": "Tel Aviv",
+  "url": "https://www.comeet.com/jobs/inmanage/B7.006/qa/C6.458",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:55+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Junior QA",
+  "company": "inManage",
+  "location": "Tel Aviv",
+  "url": "https://www.comeet.com/jobs/inmanage/B7.006/junior-qa/24.568",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:55+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Interoperability Test Team Leader",
+  "company": "INFINIDAT",
+  "location": "Herzliya",
+  "url": "https://www.comeet.com/jobs/infinidat/D6.003/interoperability-test-team-leader/AE.C62",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:53+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: advantage"
+ },
+ {
+  "title": "Scale Testing Team Leader",
+  "company": "INFINIDAT",
+  "location": "Herzliya",
+  "url": "https://www.comeet.com/jobs/infinidat/D6.003/scale-testing-team-leader/4C.D6F",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:53+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "QA Engineer",
+  "company": "Finubit",
+  "location": "Tel Aviv",
+  "url": "https://www.comeet.com/jobs/finubit/A9.002/qa-engineer/4E.173",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:44+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: advantage"
+ },
+ {
+  "title": "QA & Data Quality Engineer",
+  "company": "evoke",
+  "location": "Israel",
+  "url": "https://www.comeet.com/jobs/evoke/E2.001/qa--data-quality-engineer/DC.17B",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:42+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: about 5 years of experience"
+ },
+ {
+  "title": "QA Automation Engineer – Agent DLP",
+  "company": "Cyera",
+  "location": "Tel Aviv",
+  "url": "https://www.comeet.com/jobs/cyera/17.008/qa-automation-engineer--agent-dlp/45.F54",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:35+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "R&D System Integration Engineer",
+  "company": "Cognyte",
+  "location": "Israel, Herzliya",
+  "url": "https://www.comeet.com/jobs/cognyte/F2.009/rd-system-integration-engineer/6D.478",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:24+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "AI NPU Integration & Validation Engineer",
+  "company": "Ceva",
+  "location": "Ra'anana, Israel (IL)",
+  "url": "https://www.comeet.com/jobs/ceva/76.005/ai-npu-integration--validation-engineer/FF.47B",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:20+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: 1 to 3 years of experience in integration, CI/: DevOps or bu"
+ },
+ {
+  "title": "QA Specialist",
+  "company": "Bagira",
+  "location": "Modiin, Israel",
+  "url": "https://www.comeet.com/jobs/bagirasystems/47.006/qa-specialist/02.B21",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:10+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Cloud & Integration Engineer",
+  "company": "AudioCodes",
+  "location": "Naimi Park, Or Yehuda, Israel",
+  "url": "https://www.comeet.com/jobs/audiocodes/85.004/cloud--integration-engineer/4A.374",
+  "posted": "",
+  "first_seen": "2026-11-11T20:39:07+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "Verification Engineer",
+  "company": "abra",
+  "location": "Center",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/verification-engineer/B2.27E",
+  "posted": "",
+  "first_seen": "2026-11-11T20:38:58+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "ERP QA Engineer",
+  "company": "abra",
+  "location": "Center",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/erp-qa-engineer/AC.47F",
+  "posted": "",
+  "first_seen": "2026-11-11T20:38:58+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Manual QA Tester – Digital & Web",
+  "company": "abra",
+  "location": "Center",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/manual-qa-tester--digital--web/94.27A",
+  "posted": "",
+  "first_seen": "2026-11-11T20:38:58+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "Integration Engineer- North",
+  "company": "abra",
+  "location": "North",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/integration-engineer--north/60.D62",
+  "posted": "",
+  "first_seen": "2026-11-11T20:38:58+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "Quality Engineer",
+  "company": "abra",
+  "location": "Center",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/quality-engineer/5A.667",
+  "posted": "",
+  "first_seen": "2026-11-11T20:38:58+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "Integration Engineer",
+  "company": "abra",
+  "location": "Center",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/integration-engineer/3D.276",
+  "posted": "",
+  "first_seen": "2026-11-11T20:38:58+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "Experienced Integration Engineer",
+  "company": "abra",
+  "location": "Center",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/experienced-integration-engineer/1C.271",
+  "posted": "",
+  "first_seen": "2026-11-11T20:38:58+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Integration Engineer / System Engineer",
+  "company": "abra",
+  "location": "Center",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/integration-engineer--system-engineer/0C.F64",
+  "posted": "",
+  "first_seen": "2026-11-11T20:38:58+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "System Validation Engineer",
+  "company": "DRIVENETS",
+  "location": "Raanana, Israel",
+  "url": "https://www.comeet.com/jobs/drivenets/72.006/system-validation-engineer/8C.067",
+  "posted": "",
+  "first_seen": "2026-11-11T18:27:49+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "QA E2E Engineer",
+  "company": "DRIVENETS",
+  "location": "Raanana, Israel",
+  "url": "https://www.comeet.com/jobs/drivenets/72.006/qa-e2e-engineer/51.859",
+  "posted": "",
+  "first_seen": "2026-11-11T18:27:49+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "QA E2E Team Leader",
+  "company": "DRIVENETS",
+  "location": "Raanana, Israel",
+  "url": "https://www.comeet.com/jobs/drivenets/72.006/qa-e2e-team-leader/0F.274",
+  "posted": "",
+  "first_seen": "2026-11-11T18:27:49+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "QA Performance Engineer",
+  "company": "VAST Data",
+  "location": "Israel - Haifa",
+  "url": "https://www.comeet.com/jobs/vastdata/43.001/qa-performance-engineer/99.A1F-17.10C",
+  "posted": "",
+  "first_seen": "2026-11-11T18:27:47+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "QA Performance Engineer",
+  "company": "VAST Data",
+  "location": "Israel - Tel Aviv",
+  "url": "https://www.comeet.com/jobs/vastdata/43.001/qa-performance-engineer/99.A1F",
+  "posted": "",
+  "first_seen": "2026-11-11T18:27:47+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "Software Quality Engineer",
+  "company": "Ping Identity",
+  "location": "Israel",
+  "url": "https://job-boards.greenhouse.io/pingidentity/jobs/8904103002",
+  "posted": "2026-10-28",
+  "first_seen": "2026-11-11T18:27:29+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: 5 years of experience"
+ },
+ {
+  "title": "Senior Quality Specialist",
+  "company": "Aidoc",
+  "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+  "url": "https://job-boards.eu.greenhouse.io/aidocmedical/jobs/5000297101",
+  "posted": "2026-10-08",
+  "first_seen": "2026-11-11T20:41:33+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Field Systems & Integration Engineer - DDRF (Rayzone Group Subsidiary )",
+  "company": "Rayzone Group",
+  "location": "Tel Aviv-Yafo, Israel",
+  "url": "https://apply.workable.com/rayzone-group/j/3CF7F81189/",
+  "posted": "2026-09-16",
+  "first_seen": "2026-11-11T18:27:39+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "QA & Automation Engineer",
+  "company": "Canopy",
+  "location": "Tel Aviv, Israel ",
+  "url": "https://job-boards.greenhouse.io/canopycare/jobs/5285235008",
+  "posted": "2026-06-28",
+  "first_seen": "2026-11-11T20:43:35+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
+  "title": "Junior QA Tester",
+  "company": "WeDev",
+  "location": "Holon, Israel",
+  "url": "https://job-boards.eu.greenhouse.io/wedev/jobs/4652209101",
+  "posted": "2025-08-08",
+  "first_seen": "2026-11-11T20:41:36+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "QA Team Leader",
+  "company": "Armis",
+  "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+  "url": "https://jobs.smartrecruiters.com/armis/743999654168811",
+  "posted": "2017-06-26",
+  "first_seen": "2026-11-11T20:41:56+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: 5 years of experience"
+ }
+]
