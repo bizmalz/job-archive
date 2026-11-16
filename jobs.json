@@ -1,5 +1,15 @@
 [
  {
+  "title": "QA Engineer",
+  "company": "Mer Group",
+  "location": "Or Yehuda",
+  "url": "https://www.comeet.com/jobs/mergroup/0B.00B/qa-engineer/85.57A",
+  "posted": "",
+  "first_seen": "2026-11-16T15:05:27+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
   "title": "Digital Verification Engineer",
   "company": "Samsung Research and Development Center Israel",
   "location": "Samsung Israel R&D Center- SIRC",
