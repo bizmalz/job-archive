@@ -1,5 +1,15 @@
 [
  {
+  "title": "Senior Quality Operation Specialist",
+  "company": "Insightec",
+  "location": "Israel, Haifa",
+  "url": "https://www.comeet.com/jobs/insightec/4A.004/senior-quality-operation-specialist/D5.570",
+  "posted": "",
+  "first_seen": "2026-11-16T21:01:48+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
   "title": "QA Engineer",
   "company": "Mer Group",
   "location": "Or Yehuda",
