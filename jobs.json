@@ -1,5 +1,25 @@
 [
  {
+  "title": "Digital Verification Engineer",
+  "company": "Samsung Research and Development Center Israel",
+  "location": "Samsung Israel R&D Center- SIRC",
+  "url": "https://www.comeet.com/jobs/samsung/D4.005/digital-verification-engineer/D4.57C",
+  "posted": "",
+  "first_seen": "2026-11-16T00:05:51+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "Senior System Validation Engineer",
+  "company": "Kela Technologies",
+  "location": "Gan Shomron",
+  "url": "https://www.comeet.com/jobs/kelatechnologies/2A.007/senior-system-validation-engineer/D4.576",
+  "posted": "",
+  "first_seen": "2026-11-16T00:02:19+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: not_mentioned"
+ },
+ {
   "title": "Senior Digital Verification Engineer",
   "company": "Samsung Research and Development Center Israel",
   "location": "Samsung Israel R&D Center- SIRC",
@@ -28,6 +48,16 @@
   "first_seen": "2026-11-11T20:43:19+00:00",
   "verdict": "needs_look",
   "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
+  "title": "QA Engineer",
+  "company": "Realplay",
+  "location": "Tel Aviv Site",
+  "url": "https://www.comeet.com/jobs/realplay/9A.003/qa-engineer/D2.377",
+  "posted": "",
+  "first_seen": "2026-11-11T20:43:17+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
  },
  {
   "title": "Mobile QA Engineer",
@@ -507,7 +537,7 @@
   "posted": "",
   "first_seen": "2026-11-11T18:27:49+00:00",
   "verdict": "needs_look",
-  "reason": "title looked like QA but the model says another kind of role"
+  "reason": "model is unsure (automation=advantage, confidence=low)"
  },
  {
   "title": "QA E2E Engineer",
