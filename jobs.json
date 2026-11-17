@@ -1,5 +1,15 @@
 [
  {
+  "title": "QA E2E System Team Leader",
+  "company": "DRIVENETS",
+  "location": "Raanana, Israel",
+  "url": "https://www.comeet.com/jobs/drivenets/72.006/qa-e2e-system-team-leader/D0.477",
+  "posted": "",
+  "first_seen": "2026-11-17T18:00:27+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
   "title": "Automation SW QA Engineer",
   "company": "Insightec",
   "location": "Israel, Kiryat Ono",
@@ -260,10 +270,10 @@
   "reason": "evidence check failed: quote not found in posting: An advantage, not a requirement: Hands-on experience with te"
  },
  {
-  "title": "Quantum Software Engineer - Application Validation",
+  "title": "Quantum Control Systems Engineer (Application Validation Team)",
   "company": "Quantum Machines",
   "location": "Israel, Tel Aviv Office",
-  "url": "https://www.comeet.com/jobs/quantummachines/D6.000/quantum-software-engineer---application-validation/FF.274-47.20D",
+  "url": "https://www.comeet.com/jobs/quantummachines/D6.000/quantum-control-systems-engineer-application-validation-team/FF.274-47.20D",
   "posted": "",
   "first_seen": "2026-11-11T20:40:41+00:00",
   "verdict": "match",
