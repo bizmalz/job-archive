@@ -1,5 +1,15 @@
 [
  {
+  "title": "Quality Audits & Processes Engineer",
+  "company": "DRS RADA TECHNOLOGIES",
+  "location": "Netanya",
+  "url": "https://www.comeet.com/jobs/rada/73.009/quality-audits--processes-engineer/76.571",
+  "posted": "",
+  "first_seen": "2026-11-18T15:02:39+00:00",
+  "verdict": "needs_look",
+  "reason": "title looked like QA but the model says another kind of role"
+ },
+ {
   "title": "QA E2E Team Leader- System",
   "company": "DRIVENETS",
   "location": "Raanana, Israel",
@@ -10,10 +20,10 @@
   "reason": "manual QA; automation: advantage"
  },
  {
-  "title": "Automation SW QA Engineer",
+  "title": "Software QA Engineer",
   "company": "Insightec",
   "location": "Israel, Kiryat Ono",
-  "url": "https://www.comeet.com/jobs/insightec/4A.004/automation-sw-qa-engineer/66.574",
+  "url": "https://www.comeet.com/jobs/insightec/4A.004/software-qa-engineer/66.574",
   "posted": "",
   "first_seen": "2026-11-17T15:01:54+00:00",
   "verdict": "needs_look",
@@ -340,16 +350,6 @@
   "reason": "second opinion agrees: manual QA; automation: not_mentioned"
  },
  {
-  "title": "Quality Engineer - Design Control",
-  "company": "Mego Afek",
-  "location": "Mego Afek AC Ltd.",
-  "url": "https://www.comeet.com/jobs/megoafek/7A.003/quality-engineer---design-control/55.D6C",
-  "posted": "",
-  "first_seen": "2026-11-11T20:40:19+00:00",
-  "verdict": "match",
-  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
- },
- {
   "title": "Test Development Engineer - Israel",
   "company": "Island",
   "location": "Tel Aviv",
@@ -428,16 +428,6 @@
   "first_seen": "2026-11-11T20:39:44+00:00",
   "verdict": "match",
   "reason": "second opinion agrees: manual QA; automation: advantage"
- },
- {
-  "title": "QA Automation Engineer – Agent DLP",
-  "company": "Cyera",
-  "location": "Tel Aviv",
-  "url": "https://www.comeet.com/jobs/cyera/17.008/qa-automation-engineer--agent-dlp/45.F54",
-  "posted": "",
-  "first_seen": "2026-11-11T20:39:35+00:00",
-  "verdict": "match",
-  "reason": "manual QA; automation: advantage"
  },
  {
   "title": "R&D System Integration Engineer",
