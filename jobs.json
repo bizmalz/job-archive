@@ -20,14 +20,14 @@
   "reason": "evidence check failed: quote not found in posting: 1-2 years of experience of manual and automation tests for m"
  },
  {
-  "title": "Senior Quality Operation Specialist",
+  "title": "Quality Operation Specialist",
   "company": "Insightec",
   "location": "Israel, Haifa",
-  "url": "https://www.comeet.com/jobs/insightec/4A.004/senior-quality-operation-specialist/D5.570",
+  "url": "https://www.comeet.com/jobs/insightec/4A.004/quality-operation-specialist/D5.570",
   "posted": "",
   "first_seen": "2026-11-16T21:01:48+00:00",
-  "verdict": "needs_look",
-  "reason": "title looked like QA but the model says another kind of role"
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
  },
  {
   "title": "QA Engineer",
