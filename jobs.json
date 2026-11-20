@@ -10,16 +10,6 @@
   "reason": "title looked like QA but the model says another kind of role"
  },
  {
-  "title": "QA Engineer",
-  "company": "SuperPlay",
-  "location": "Tel-Aviv, Israel",
-  "url": "https://www.comeet.com/jobs/superplay/28.003/qa-engineer/A4.57A",
-  "posted": "",
-  "first_seen": "2026-11-19T15:00:29+00:00",
-  "verdict": "needs_look",
-  "reason": "evidence check failed: quote not found in posting: about 5 years of experience"
- },
- {
   "title": "Process Quality Engineer",
   "company": "PI-Cardia",
   "location": "Rehovot, Israel",
@@ -28,16 +18,6 @@
   "first_seen": "2026-11-19T12:04:36+00:00",
   "verdict": "match",
   "reason": "second opinion agrees: manual QA; automation: not_mentioned"
- },
- {
-  "title": "Poker QA Engineer",
-  "company": "evoke",
-  "location": "Israel",
-  "url": "https://www.comeet.com/jobs/evoke/E2.001/poker-qa-engineer/01.471",
-  "posted": "",
-  "first_seen": "2026-11-18T18:01:22+00:00",
-  "verdict": "match",
-  "reason": "second opinion agrees: manual QA; automation: advantage"
  },
  {
   "title": "Quality Audits & Processes Engineer",
