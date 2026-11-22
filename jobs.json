@@ -1,5 +1,15 @@
 [
  {
+  "title": "Integration & Validation Engineer",
+  "company": "Parallel Wireless",
+  "location": "Kfar Saba, Israel",
+  "url": "https://jobs.lever.co/parallelwireless/73443969-f834-4d5f-bc2f-f85ac6af4dbe",
+  "posted": "",
+  "first_seen": "2026-11-22T15:04:54+00:00",
+  "verdict": "match",
+  "reason": "manual QA; automation: advantage"
+ },
+ {
   "title": "Multilayer Systems QA Team Lead",
   "company": "D-Fend Solutions",
   "location": "Raanana, Center District, Israel",
@@ -518,26 +528,6 @@
   "first_seen": "2026-11-11T20:38:58+00:00",
   "verdict": "match",
   "reason": "manual QA; automation: not_mentioned"
- },
- {
-  "title": "ERP QA Engineer",
-  "company": "abra",
-  "location": "Center",
-  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/erp-qa-engineer/AC.47F",
-  "posted": "",
-  "first_seen": "2026-11-11T20:38:58+00:00",
-  "verdict": "match",
-  "reason": "manual QA; automation: not_mentioned"
- },
- {
-  "title": "Manual QA Tester – Digital & Web",
-  "company": "abra",
-  "location": "Center",
-  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/manual-qa-tester--digital--web/94.27A",
-  "posted": "",
-  "first_seen": "2026-11-11T20:38:58+00:00",
-  "verdict": "match",
-  "reason": "manual QA; automation: advantage"
  },
  {
   "title": "Quality Engineer",
