@@ -1,5 +1,25 @@
 [
  {
+  "title": "Validation Engineer",
+  "company": "Camtek",
+  "location": "Migdal Haemek",
+  "url": "https://www.comeet.com/jobs/camtek/F4.00D/validation-engineer/49.57D",
+  "posted": "",
+  "first_seen": "2026-11-23T12:01:34+00:00",
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
+ },
+ {
+  "title": "RT embedded SW/ FW verification engineer",
+  "company": "abra",
+  "location": "Center",
+  "url": "https://www.comeet.com/jobs/abra_rnd/15.007/rt-embedded-sw-fw-verification-engineer/69.57D",
+  "posted": "",
+  "first_seen": "2026-11-23T12:00:56+00:00",
+  "verdict": "needs_look",
+  "reason": "evidence check failed: quote not found in posting: B.Sc. in Electrical Engineering or Computer: Must."
+ },
+ {
   "title": "Integration & Validation Engineer",
   "company": "Parallel Wireless",
   "location": "Kfar Saba, Israel",
