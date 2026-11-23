@@ -130,16 +130,6 @@
   "reason": "evidence check failed: quote not found in posting: At least : 4 years of hands-on experience in VLSI verificati"
  },
  {
-  "title": "Field Testing Team Lead",
-  "company": "Regulus",
-  "location": "Haifa",
-  "url": "https://www.comeet.com/jobs/regulus/9A.00D/field-testing-team-lead/F2.472",
-  "posted": "",
-  "first_seen": "2026-11-11T20:43:19+00:00",
-  "verdict": "match",
-  "reason": "second opinion agrees: manual QA; automation: not_mentioned"
- },
- {
   "title": "System Integration Engineer",
   "company": "Regulus",
   "location": "Haifa",
