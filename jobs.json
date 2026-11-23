@@ -500,16 +500,6 @@
   "reason": "second opinion agrees: manual QA; automation: not_mentioned"
  },
  {
-  "title": "Cloud & Integration Engineer",
-  "company": "AudioCodes",
-  "location": "Naimi Park, Or Yehuda, Israel",
-  "url": "https://www.comeet.com/jobs/audiocodes/85.004/cloud--integration-engineer/4A.374",
-  "posted": "",
-  "first_seen": "2026-11-11T20:39:07+00:00",
-  "verdict": "needs_look",
-  "reason": "title looked like QA but the model says another kind of role"
- },
- {
   "title": "Verification Engineer",
   "company": "abra",
   "location": "Center",
