@@ -210,14 +210,14 @@
   "reason": "manual QA; automation: not_mentioned"
  },
  {
-  "title": "Senior QA Engineer – Outdoor Test Lead",
+  "title": "Sr. QA Engineer – Outdoor Test Lead",
   "company": "Parallel Wireless",
   "location": "Kinneret, Israel",
   "url": "https://jobs.lever.co/parallelwireless/e96702fd-98e7-49d5-aad5-aa22bdcf0499",
   "posted": "",
   "first_seen": "2026-11-11T20:41:47+00:00",
-  "verdict": "needs_look",
-  "reason": "senior / lead title: check the seniority by hand. manual QA; automation: advantage"
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: advantage"
  },
  {
   "title": "Senior AI-Driven Integration & Validation Engineer",
