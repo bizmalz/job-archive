@@ -16,8 +16,8 @@
   "url": "https://www.comeet.com/jobs/abra_rnd/15.007/rt-embedded-sw-fw-verification-engineer/69.57D",
   "posted": "",
   "first_seen": "2026-11-23T12:00:56+00:00",
-  "verdict": "needs_look",
-  "reason": "evidence check failed: quote not found in posting: B.Sc. in Electrical Engineering or Computer: Must."
+  "verdict": "match",
+  "reason": "second opinion agrees: manual QA; automation: advantage"
  },
  {
   "title": "Integration & Validation Engineer",
